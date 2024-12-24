@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema aplikasi untuk mode gelap -->
+    <style name="Theme.AppsDicoding" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Warna utama -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorBlack</item>
+        <item name="colorAccent">@color/colorAccentDark</item>
+        <!-- Warna latar belakang -->
+        <item name="android:windowBackground">@color/colorBackgroundDark</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <!-- Default Toolbar dan BottomNavigation -->
+        <item name="colorSurface">@color/colorSurfaceDark</item>
+        <item name="colorOnSurface">@color/colorOnSurfaceDark</item>
+    </style>
+</resources>
