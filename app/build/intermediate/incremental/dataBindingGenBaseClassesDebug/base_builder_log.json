@@ -1,0 +1,79 @@
+{
+  "dependencies": {},
+  "class_names_log": {
+    "mappings": {
+      "about_activity_main": {
+        "qualified_name": "com.example.appsdicoding.databinding.AboutActivityMainBinding",
+        "module_package": "com.example.appsdicoding.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_event_detail": {
+        "qualified_name": "com.example.appsdicoding.databinding.ActivityEventDetailBinding",
+        "module_package": "com.example.appsdicoding.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_main": {
+        "qualified_name": "com.example.appsdicoding.databinding.ActivityMainBinding",
+        "module_package": "com.example.appsdicoding.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_settings": {
+        "qualified_name": "com.example.appsdicoding.databinding.ActivitySettingsBinding",
+        "module_package": "com.example.appsdicoding.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_active_events": {
+        "qualified_name": "com.example.appsdicoding.databinding.FragmentActiveEventsBinding",
+        "module_package": "com.example.appsdicoding.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_favorite_event": {
+        "qualified_name": "com.example.appsdicoding.databinding.FragmentFavoriteEventBinding",
+        "module_package": "com.example.appsdicoding.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_home_event": {
+        "qualified_name": "com.example.appsdicoding.databinding.FragmentHomeEventBinding",
+        "module_package": "com.example.appsdicoding.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_pass_event": {
+        "qualified_name": "com.example.appsdicoding.databinding.FragmentPassEventBinding",
+        "module_package": "com.example.appsdicoding.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_settings": {
+        "qualified_name": "com.example.appsdicoding.databinding.FragmentSettingsBinding",
+        "module_package": "com.example.appsdicoding.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "item_event": {
+        "qualified_name": "com.example.appsdicoding.databinding.ItemEventBinding",
+        "module_package": "com.example.appsdicoding.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "item_favorite_event": {
+        "qualified_name": "com.example.appsdicoding.databinding.ItemFavoriteEventBinding",
+        "module_package": "com.example.appsdicoding.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "pass_event_detail": {
+        "qualified_name": "com.example.appsdicoding.databinding.PassEventDetailBinding",
+        "module_package": "com.example.appsdicoding.databinding",
+        "variables": {},
+        "implementations": []
+      }
+    }
+  }
+}
