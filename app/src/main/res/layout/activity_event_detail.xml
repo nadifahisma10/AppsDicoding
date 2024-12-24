@@ -1,0 +1,147 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context=".ui.detail.EventDetailActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Loading Spinner -->
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone" />
+
+        <!-- Event Logo -->
+        <ImageView
+            android:id="@+id/imageLogo"
+            android:layout_width="match_parent"
+            android:layout_height="275dp"
+            android:contentDescription="@string/todo"
+            android:layerType="software"
+            android:scaleType="centerCrop" />
+
+        <!-- Event ID -->
+        <TextView
+            android:id="@+id/id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:paddingTop="8dp" />
+
+        <!-- Event Name -->
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:justificationMode="inter_word"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:paddingTop="8dp" />
+
+        <!-- Event Summary -->
+        <TextView
+            android:id="@+id/summary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:paddingTop="8dp"
+            android:paddingBottom="6dp" />
+
+        <!-- Event Description -->
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:justificationMode="inter_word"
+            android:textAlignment="viewStart"
+            android:lineSpacingExtra="2dp"
+            android:textSize="17sp"
+            android:paddingTop="4dp" />
+
+        <!-- Event Category -->
+        <TextView
+            android:id="@+id/category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:paddingTop="4dp" />
+
+        <!-- Event Media Cover -->
+        <TextView
+            android:id="@+id/mediaCover"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp" />
+
+        <!-- Event Owner Name -->
+        <TextView
+            android:id="@+id/ownerName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:paddingTop="4dp" />
+
+        <!-- Event City Name -->
+        <TextView
+            android:id="@+id/cityName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:paddingTop="4dp" />
+
+        <!-- Event Quota -->
+        <TextView
+            android:id="@+id/quota"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:paddingTop="4dp" />
+
+        <!-- Event Registrants -->
+        <TextView
+            android:id="@+id/registrants"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:paddingTop="4dp" />
+
+        <!-- Event Begin Time -->
+        <TextView
+            android:id="@+id/beginTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:paddingTop="4dp" />
+
+        <!-- Event End Time -->
+        <TextView
+            android:id="@+id/endTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:paddingTop="4dp"
+            android:paddingBottom="20dp" />
+
+        <!-- Register Button -->
+        <Button
+            android:id="@+id/link"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/register"
+            android:textColor="@android:color/holo_blue_dark"
+            android:clickable="true"
+            android:focusable="true" />
+    </LinearLayout>
+</ScrollView>
