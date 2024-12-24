@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\layout_about_activity_main.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\about_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\layout_fragment_home_event.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\fragment_home_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\navigation_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\navigation\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\layout_fragment_favorite_event.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\fragment_favorite_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_myselff.jpg.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\myselff.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\layout_fragment_active_events.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\fragment_active_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.appsdicoding.app-debug-56:/layout_activity_main.xml.flat",
+        "source": "com.example.appsdicoding.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_baseline_favorite_border_24.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_circle_purple_background.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\circle_purple_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\layout_pass_event_detail.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\pass_event_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_baseline_favorite_24.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\baseline_favorite_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_ic_settings_white.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\ic_settings_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_pass.png.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\layout_item_favorite_event.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\item_favorite_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_home.png.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_search_view_background.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\search_view_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_placeholder_image.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\placeholder_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\layout_fragment_pass_event.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\fragment_pass_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\layout_item_event.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\item_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_person.png.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_bookmark.png.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_purple_box.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\purple_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_upcoming.png.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\upcoming.png"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\layout_activity_event_detail.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\activity_event_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-debug-56:\\drawable_error_image.xml.flat",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\drawable\\error_image.xml"
+    }
+]

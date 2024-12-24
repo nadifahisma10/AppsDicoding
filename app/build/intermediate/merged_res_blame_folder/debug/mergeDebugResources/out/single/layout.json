@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-mergeDebugResources-55:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-mergeDebugResources-55:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-mergeDebugResources-55:\\layout\\activity_event_detail.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\activity_event_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-mergeDebugResources-55:\\layout\\about_activity_main.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\about_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-mergeDebugResources-55:\\layout\\fragment_active_events.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\fragment_active_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-mergeDebugResources-55:\\layout\\pass_event_detail.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\pass_event_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-mergeDebugResources-55:\\layout\\fragment_pass_event.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\fragment_pass_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-mergeDebugResources-55:\\layout\\item_event.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\item_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-mergeDebugResources-55:\\layout\\fragment_favorite_event.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\fragment_favorite_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-mergeDebugResources-55:\\layout\\item_favorite_event.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\item_favorite_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-mergeDebugResources-55:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "com.example.appsdicoding.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.example.appsdicoding.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-mergeDebugResources-55:\\layout\\fragment_home_event.xml",
+        "source": "C:\\Users\\Nadifa Isma Aulia\\.gradle\\daemon\\8.9\\com.example.appsdicoding.app-main-58:\\layout\\fragment_home_event.xml"
+    }
+]
