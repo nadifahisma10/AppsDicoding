@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="placeholder">#6FB6B6B6</color>
+
+    <color name="primaryDark">#1E88E5</color>
+    <color name="onPrimaryDark">#FFFFFF</color>
+    <color name="primaryContainerDark">#1565C0</color>
+    <color name="onPrimaryContainerDark">#FFFFFF</color>
+    <color name="secondaryDark">#03DAC6</color>
+    <color name="onSecondaryDark">#000000</color>
+    <color name="secondaryContainerDark">#018786</color>
+    <color name="onSecondaryContainerDark">#FFFFFF</color>
+    <color name="tertiaryDark">#FF6F00</color>
+    <color name="onTertiaryDark">#FFFFFF</color>
+    <color name="tertiaryContainerDark">#FF8F00</color>
+    <color name="onTertiaryContainerDark">#000000</color>
+    <color name="onBackgroundDark">#FFFFFF</color>
+    <color name="surfaceDark">#121212</color>
+    <color name="onSurfaceDark">#FFFFFF</color>
+    <color name="errorDark">#B00020</color>
+    <color name="onErrorDark">#FFFFFF</color>
+    <color name="errorContainerDark">#CF6679</color>
+    <color name="onErrorContainerDark">#000000</color>
+    <color name="outlineDark">#737373</color>
+
+    <color name="surfaceVariantDark">#37474F</color>
+    <color name="onSurfaceVariantDark">#ECEFF1</color>
+    <color name="surfaceDimDark">#121212</color>
+    <color name="surfaceBrightDark">#FFFFFF</color>
+    <color name="surfaceContainerLowestDark">#1C1C1C</color>
+    <color name="surfaceContainerLowDark">#2E2E2E</color>
+    <color name="surfaceContainerDark">#3F3F3F</color>
+    <color name="surfaceContainerHighDark">#4A4A4A</color>
+    <color name="surfaceContainerHighestDark">#555555</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#16166B</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBottomNavBackground">#FFFFFF</color>
+    <color name="colorBottomNavIcon">#000000</color>
+    <color name="colorBottomNavText">#000000</color>
+
+    <!-- Warna untuk mode terang -->
+    <color name="colorBackgroundLight">#FFFFFF</color>
+    <color name="colorSurfaceLight">#FFFFFF</color>
+    <color name="colorOnSurfaceLight">#000000</color>
+
+    <!-- Warna untuk mode gelap -->
+    <color name="colorBlack">#000000</color>
+    <color name="colorAccentDark">#021EB1</color>
+    <color name="colorBackgroundDark">#121212</color>
+    <color name="colorSurfaceDark">#1E1E1E</color>
+    <color name="colorOnSurfaceDark">#FFFFFF</color>
+
+</resources>

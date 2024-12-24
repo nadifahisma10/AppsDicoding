@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema aplikasi untuk mode terang -->
+    <style name="Theme.AppsDicoding" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Warna utama -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Warna latar belakang -->
+        <item name="android:windowBackground">@color/colorBackgroundLight</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <!-- Default Toolbar dan BottomNavigation -->
+        <item name="colorSurface">@color/colorSurfaceLight</item>
+        <item name="colorOnSurface">@color/colorOnSurfaceLight</item>
+    </style>
+</resources>

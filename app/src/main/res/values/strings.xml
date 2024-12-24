@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Apps Dicoding</string>
+    <string name="event_id">Id: %1$d</string>
+    <string name="event_name">Nama: %1$s</string>
+    <string name="event_summary">Summary: %1$s</string>
+    <string name="event_description">Deskripsi: %1$s</string>
+    <string name="event_media_cover">Media Cover: %1$s</string>
+    <string name="event_category">Kategori: %1$s</string>
+    <string name="event_owner_name">Owner Name: %1$s</string>
+    <string name="event_city_name">Kota: %1$s</string>
+    <string name="event_quota">%d</string>
+    <string name="event_registrants">%d</string>
+    <string name="event_start_time">Start Time: %s</string>
+    <string name="event_end_time">End: %1$s</string>
+    <string name="link">Daftar</string>
+
+    <string name="home">Home</string>
+    <string name="active_events">Active Events</string>
+    <string name="past_events">Past Events</string>
+    <string name="about">About Me</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+
+    <string name="ismanadifah574_gmail_com">ismanadifah574@gmail.com</string>
+    <string name="nadifah_isma_aulia">Nadifah Isma Aulia</string>
+    <string name="event_collection_title">Kumpulan Acara-Acara Menarik Menanti Untukmu!!!</string>
+
+    <string name="list">list</string>
+    <string name="grid">grid</string>
+
+    <string name="go_to_home_events">Go to Home Events</string>
+    <string name="go_to_active_events">Go to Active Events</string>
+    <string name="go_to_pass_events">Go to Pass Events</string>
+    <string name="go_to_about_me">Go to About Me</string>
+
+    <string name="id">ID: %1$d</string>
+    <string name="category">Kategori: %1$s</string>
+    <string name="media_cover">Link: %1$s</string>
+    <string name="city">Tempat: %1$s</string>
+    <string name="quota_left">Sisa Kuota: %d</string>
+    <string name="owner_name">Penyelenggara: %1$s</string>
+    <string name="registrants">Pendaftar: %d</string>
+    <string name="begin_time">Waktu Mulai: %1$s</string>
+    <string name="end_time">Waktu Selesai: %1$s</string>
+    <string name="register">Register</string>
+    <string name="event_not_found">Event tidak ditemukan</string>
+
+    <string name="todo">TODO</string>
+    <string name="event_selesai">Event Selesai</string>
+    <string name="event_baru">Event Baru</string>
+    <string name="Hallo_Nadifah">Hallo Nadifah</string>
+
+    <string name="dark_mode">Dark Mode</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="event_favorit">Event Favorit</string>
+    <string name="event_favorite">Event Favorit</string>
+    <string name="emptyList">Tidak ada event favorit</string>
+</resources>
